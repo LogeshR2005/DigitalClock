@@ -4,7 +4,6 @@
 
 A simple, responsive **digital clock** built using **HTML**, **CSS**, and **JavaScript**. This project dynamically displays the current time and updates every second. The sleek design ensures it's both visually appealing and functional.
 
-![Digital Clock Preview](path-to-your-image.png)
 
 ---
 
@@ -29,7 +28,6 @@ This clock uses JavaScript's `Date` object to fetch the current time, and update
 
 ## 📸 Demo
 
-![Clock Demo GIF](path-to-your-demo.gif)
 
 ---
 
