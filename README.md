@@ -1,5 +1,3 @@
-Here's a descriptive and engaging **GitHub README** for your digital clock project:
-
 ---
 
 # ⏰ Digital Clock
