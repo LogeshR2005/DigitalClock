@@ -39,7 +39,7 @@ This clock uses JavaScript's `Date` object to fetch the current time, and update
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/LogeshR2005/DigitalClock.git
    ```
 2. Open the `index.html` file in your browser.
 
