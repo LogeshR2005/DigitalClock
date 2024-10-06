@@ -22,7 +22,7 @@ This clock uses JavaScript's `Date` object to fetch the current time, and update
 ### Files in this project:
 - **index.html**: Contains the clock structure.
 - **style.css**: Handles the visual aspects of the clock.
-- **script.js**: Runs the logic to fetch and display the time.
+
 
 ---
 
